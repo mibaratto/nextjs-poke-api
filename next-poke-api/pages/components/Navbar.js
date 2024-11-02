@@ -23,7 +23,7 @@ export default function Navbar() {
         </li>
         <li>
           <Link className={styles.link_items_link} href="/about">
-            Sobre
+            About
           </Link>
         </li>
       </ul>
